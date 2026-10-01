@@ -30,12 +30,10 @@ Most converters make you pick a **From**, pick a **To**, and press **Convert**. 
 
 Keep your currencies in one stack. Tap any row and it becomes the active currency. Type on the built-in keypad and every other row converts as you go, even offline.
 
-| | |
-| --- | --- |
-| **No selectors** | No From/To pickers, no swap button, no Convert button. |
-| **Calculator built in** | Type `120 × 3 + 15` and every row updates with the result. |
-| **Works offline** | Converts from the last good rates, with the source and age always visible. |
-| **Private by design** | No account, no ads, no tracking, no limits. |
+- **No selectors.** No From/To pickers, no swap button, no Convert button.
+- **Calculator built in.** Type `120 × 3 + 15` and every row updates with the result.
+- **Works offline.** Converts from the last good rates, with the source and age always visible.
+- **Private by design.** No account, no ads, no tracking, no limits.
 
 <br />
 
